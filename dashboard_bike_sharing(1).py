@@ -3,6 +3,8 @@
 #Dicoding   : https://www.dicoding.com/users/ikhwan29/
 
 #Import Libraries
+source /home/appuser/venv/bin/activate  # Activate the virtual environment
+pip install plotly
 import streamlit as st
 import pandas as pd
 import plotly.express as px
