@@ -5,7 +5,9 @@
 #Import Libraries
 source /home/appuser/venv/bin/activate  # Activate the virtual environment
 pip install plotly
+source /home/appuser/venv/bin/activate  # Activate the virtual environment
 pip install streamlit
+source /home/appuser/venv/bin/activate  # Activate the virtual environment
 pip install pandas
 import streamlit as st
 import pandas as pd
