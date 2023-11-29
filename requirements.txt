@@ -1,6 +1,4 @@
-kaggle==1.5.12
-plotly==5.0.0
 pandas==1.4.2
 pillow==9.1.0
-plotply==5.7.0
+plotly==5.7.0
 streamlit==1.8.1
