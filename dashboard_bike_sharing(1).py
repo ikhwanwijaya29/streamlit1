@@ -5,6 +5,8 @@
 #Import Libraries
 source /home/appuser/venv/bin/activate  # Activate the virtual environment
 pip install plotly
+pip install streamlit
+pip install pandas
 import streamlit as st
 import pandas as pd
 import plotly.express as px
