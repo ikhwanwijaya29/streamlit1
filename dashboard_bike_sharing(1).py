@@ -103,4 +103,4 @@ st.plotly_chart(fig_temp_chart, use_container_width=True,
 
 # Show data source and description
 st.sidebar.title("About")
-st.sidebar.info("This dashboard displays visual
+st.sidebar.info("This dashboard displays visual)
