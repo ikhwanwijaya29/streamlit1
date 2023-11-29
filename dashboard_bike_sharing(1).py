@@ -3,9 +3,6 @@
 #Dicoding   : https://www.dicoding.com/users/ikhwan29/
 
 #Import Libraries
-!pip install plotly
-!pip install streamlit
-!pip install pandas
 import streamlit as st
 import pandas as pd
 import plotly.express as px
