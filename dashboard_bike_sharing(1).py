@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 
 @st.cache
 def load_data():
-    data = pd.read_csv("streamlit1/hour.csv")
+    data = pd.read_csv("hour.csv")
     return data
 
 data = load_data()
@@ -33,7 +33,7 @@ st.sidebar.markdown("**• Author: Ikhwan Wijaya**")
 st.sidebar.markdown(
     "**• Email: [ikhwanwijaya76@gmail.com](ikhwanwijaya76@gmail.com)**")
 st.sidebar.markdown(
-    "**• Dicoding: [maulanakavaldo](https://www.dicoding.com/users/ikhwan29/)**")
+    "**• Dicoding: [Ikhwan Wijaya](https://www.dicoding.com/users/ikhwan29/)**")
 
 st.sidebar.title("Bike Share Dataset")
 # Show the dataset
