@@ -3,11 +3,10 @@
 #Dicoding   : https://www.dicoding.com/users/ikhwan29/
 
 #Import Libraries
-!pip install plotply
 import streamlit as st
 import pandas as pd
-import plotly.express as px
-import plotly.graph_objects as go
+#import plotly.express as px
+#import plotly.graph_objects as go
 
 # ==============================
 # LOAD DATA
