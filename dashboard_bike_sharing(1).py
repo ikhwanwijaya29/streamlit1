@@ -14,7 +14,7 @@ import plotly.graph_objects as go
 
 @st.cache_resource
 def load_data():
-    data = pd.read_csv("hour.csv")
+    data = pd.read_csv("streamlit1/hour.csv")
     return data
 
 data = load_data()
